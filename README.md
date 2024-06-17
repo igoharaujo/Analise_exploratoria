@@ -23,8 +23,8 @@ Foram elaboradas 10 perguntas para a realização deste projeto. A seguir, explo
 
 | Base de dados | Local                                    |
 |---------------|------------------------------------------|
-| Dataset       | [Clique aqui](/Analise_exploratoria/dataset.csv) |
-| Código Jupyter Notebook | [Clique aqui](/Analise_exploratoria/varejo.ipynb) |
+| Dataset       | [Clique aqui](/dataset.csv) |
+| Código Jupyter Notebook | [Clique aqui](/varejo.ipynb) |
 
 ![Modelo conceitual](./img/carregando%20base%20de%20dados.png)
 
